@@ -1,0 +1,5 @@
+{
+  "$schema": "./build.schema.json",
+  "Solution": "RevitAddIn07.sln",
+  "Verbosity": "Normal"
+}
